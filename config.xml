@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbFrameColor="rgba(153,153,153,.5)"
+	useThumbDots="true"
+	useFullscreenExpand="true"
+	galleryTitle="Early English Editions of Greek Mathematics"
+
+>
+  <image imageURL="images/2-title.jpg"
+	thumbURL="thumbs/2-title.jpg"
+	linkURL="images/2-title.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-title.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-1.2.jpg"
+	thumbURL="thumbs/2-1.2.jpg"
+	linkURL="images/2-1.2.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-1.2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-03.jpg"
+	thumbURL="thumbs/2-03.jpg"
+	linkURL="images/2-03.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-03.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-04.jpg"
+	thumbURL="thumbs/2-04.jpg"
+	linkURL="images/2-04.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-04.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-05.jpg"
+	thumbURL="thumbs/2-05.jpg"
+	linkURL="images/2-05.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-05.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-08.09.jpg"
+	thumbURL="thumbs/2-08.09.jpg"
+	linkURL="images/2-08.09.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-08.09.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-06.jpg"
+	thumbURL="thumbs/2-06.jpg"
+	linkURL="images/2-06.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-06.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-07.jpg"
+	thumbURL="thumbs/2-07.jpg"
+	linkURL="images/2-07.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-07.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-10.jpg"
+	thumbURL="thumbs/2-10.jpg"
+	linkURL="images/2-10.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_2\2-10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
